@@ -1,1 +1,1 @@
-# Jinja Tutorial from [http://zetcode.com/python/jinja/]
+# Jinja Tutorial from http://zetcode.com/python/jinja/

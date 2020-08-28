@@ -1,0 +1,9 @@
+{# White space in output can be controlled with environment attributes. #}
+{% for person in persons %}
+
+{% if person.age < 18 %}
+  {{- person.name }}
+{% else %}
+{% endif %}
+
+{% endfor %}
